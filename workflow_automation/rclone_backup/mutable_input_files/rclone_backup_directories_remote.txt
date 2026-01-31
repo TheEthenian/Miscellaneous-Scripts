@@ -1,0 +1,7 @@
+Ephemeral_Files/
+Attack_Files/
+Boilerplate_Files/
+xplicit_current_plan/
+Sticky_Notes/
+Conquest_Ethenian_Collection/
+

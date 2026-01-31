@@ -1,0 +1,8 @@
+Area_51/Ephemeral_Files/
+Area_51/Attack_Files/scripts
+The_Ethenian/Boilerplate_files/
+The_Ethenian/xplicit_current_plan/
+Sticky_Notes/
+The_Ethenian/Conquest-Ethenian-Collection/
+
+
